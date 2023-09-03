@@ -1,4 +1,4 @@
-***Python code qui permer de grab l'ip dont les info et 2 3 info du pc***
+# Python code qui permer de grab l'ip dont les info et 2 3 info du pc
 ```
 git clone https://github.com/I-can-ddos/Grabber-python/
 cd Grabber-Python
